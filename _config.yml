@@ -4,7 +4,7 @@ subtitle: Personal website for Aninoy Mahapatra
 email: aninoy@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.aninoy.com" # the base hostname & protocol for your site
 author: Aninoy Mahaptra
 street_address:
 city: Los Angeles
