@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Aninoy Mahapatra
+subtitle: Personal website for Aninoy Mahapatra
+email: aninoy@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "aninoy.com" # the base hostname & protocol for your site
+author: Aninoy Mahaptra
+street_address:
+city:
+state:
+zip_code:
 country: United States of America
-phone: (716) 555-5555
+phone: (213) 268-9683
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/aninoy
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/aninoy
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/aninoy
 
 # build settings
 markdown: kramdown
