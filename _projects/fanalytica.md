@@ -3,6 +3,7 @@ layout: post
 title: Fanalytica
 description: Answering the 'Why' behind fan behavior
 image: assets/images/pic03.jpg
+date: 2018-03-01
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)

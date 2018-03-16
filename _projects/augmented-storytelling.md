@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Automated Fake Content Detection
-description: Research towards efficient methods to detect fake news or fake content online
-image: assets/images/fake.png
-date: 2018-03-02
+title: Augmented Storytelling
+description: Exploring Phygital Play with Smart Toys and Digital Books
+image: assets/images/pic01.jpg
+date: 2018-03-05
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
