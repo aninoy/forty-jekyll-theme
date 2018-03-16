@@ -1,11 +1,11 @@
 # site settings
 title: Aninoy Mahapatra
-subtitle: Personal website for Aninoy Mahapatra
+subtitle:
 email: aninoy@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: I create end-to-end web applications and data pipelines
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://www.aninoy.com" # the base hostname & protocol for your site
-author: Aninoy Mahaptra
+author: Aninoy Mahapatra
 street_address:
 city: Los Angeles
 state: CA
@@ -14,7 +14,7 @@ country: United States of America
 phone: (213) 268-9683
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: projects # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
@@ -32,5 +32,9 @@ twitter_url: https://twitter.com/aninoy
 # build settings
 markdown: kramdown
 
+# collection settings
+collections:
+    projects:
+        output: true
 sass:
   style: compressed

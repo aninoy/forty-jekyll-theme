@@ -123,6 +123,14 @@
 					}
 				}
 			}
+
+			.icons {
+				padding-right: 1.2em;
+				a {
+					padding-right: 0 !important;
+					font-size: 1em;
+				}
+			}
 		}
 
 		&.reveal {
