@@ -8,6 +8,9 @@ nav-menu: true
 
 <!-- Contact -->
 <section id="contact">
+	<header class="major">
+		<h1>{{ page.title }}</h1>
+	</header>
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
@@ -34,7 +37,7 @@ nav-menu: true
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="mailto:{{site.email}}">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
