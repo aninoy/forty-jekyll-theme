@@ -4,24 +4,24 @@ This website was made using the Forty - Jekyll Theme, a Jekyll version of the "F
 
 # How to Use
 
-	* For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-	* or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
-	* To insert gists use this shortcode: `{% gist sha-code %}`
-	* To highlight code use this format:
-	```
-		{% highlight python %}
-		  # your code
-		{% endhighlight %}
+* For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+* or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
+* To insert gists use this shortcode: `{% gist sha-code %}`
+* To highlight code use this format:
+```
+	{% highlight python %}
+	  # your code
+	{% endhighlight %}
 
-	```
-	* Uses MathJax with Kramdown for Mathemetical Equations in LaTeX using this format:
-	```
-		{% raw %}
-		  $$J(w, b) = 1/m \sum_{i=1}^{m}L(\hat{y}^{(i)}, y^{(i)})$$
-		  $$= 1/m \sum_{i=1}^{m} y^{(i)}\log \hat{y}^{(i)} + (1-y^{(i)})\log (1 - \hat{y}^{(i)})$$
-		{% endraw %}
-	```
-	* Run locally with `bundle exec jekyll serve`
+```
+* Uses MathJax with Kramdown for Mathemetical Equations in LaTeX using this format:
+```
+	{% raw %}
+	  $$J(w, b) = 1/m \sum_{i=1}^{m}L(\hat{y}^{(i)}, y^{(i)})$$
+	  $$= 1/m \sum_{i=1}^{m} y^{(i)}\log \hat{y}^{(i)} + (1-y^{(i)})\log (1 - \hat{y}^{(i)})$$
+	{% endraw %}
+```
+* Run locally with `bundle exec jekyll serve`
 
 # Added Features
 
